@@ -1,4 +1,4 @@
-cod,date_local,state_name,county_name,city_name,local_site_name,parameter_name,units_of_measure,arithmetic_mean,aqi
+cod;date_local;state_name;county_name;city_name;local_site_name;parameter_name;units_of_measure;arithmetic_mean;aqi
 1;1/1/2018;Ohio;Belmont;Shadyside;Shadyside;Carbon monoxide;Parts per million;0.263158;5
 2;1/1/2018;Wyoming;Teton;Not in a city;Yellowstone National Park - Old Faithful Snow Lodge;Carbon monoxide;Parts per million;0.111111;2
 3;1/1/2018;Pennsylvania;Philadelphia;Philadelphia;North East Waste (NEW);Carbon monoxide;Parts per million;0.3;3
